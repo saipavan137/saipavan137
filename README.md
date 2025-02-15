@@ -9,5 +9,5 @@
 
 - 📫 How to reach me *vbommul1@uncc.edu*
 
-- 📄 Know about my experiences [Drive link]([https://drive.google.com/file/d/12vFz-wglHJcsu8M7MNo8bt2QxeO4YxS7/view?usp=sharing](https://docs.google.com/document/d/1MiZids6noT88lf-8LeGvGGlkhRLG8wo8/edit?usp=drive_link&ouid=100349504641860555472&rtpof=true&sd=true))
+- 📄 Know about my experiences [https://docs.google.com/document/d/1MiZids6noT88lf-8LeGvGGlkhRLG8wo8/edit?usp=drive_link&ouid=100349504641860555472&rtpof=true&sd=true]([https://drive.google.com/file/d/12vFz-wglHJcsu8M7MNo8bt2QxeO4YxS7/view?usp=sharing](https://docs.google.com/document/d/1MiZids6noT88lf-8LeGvGGlkhRLG8wo8/edit?usp=drive_link&ouid=100349504641860555472&rtpof=true&sd=true))
 
