@@ -12,7 +12,6 @@
     <img src="https://komarev.com/ghpvc/?username=saipavan137&style=plastic&color=brightgreen&label=PROFILE+VIEWS" alt="Profile views"/>
   </p>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saipavan137&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Most Used Languages"/>
 
 </div>
 
